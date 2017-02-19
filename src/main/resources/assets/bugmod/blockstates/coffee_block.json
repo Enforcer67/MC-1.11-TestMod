@@ -1,0 +1,7 @@
+Blockstates:
+
+{
+	"variants": {
+		"normal": {"model": "bugmod:coffee_block" }
+	}	
+}
